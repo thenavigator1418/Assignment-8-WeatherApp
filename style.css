@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+  }
+
+.weather-header {
+    text-align: center;
+    padding: 30px;
+    color: #ffffff;
+    background: linear-gradient(to right, #1a7cdf, #011330)
+}
+
+.weather-header h1 {
+    font-size: 40px;
+}
